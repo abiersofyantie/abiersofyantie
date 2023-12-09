@@ -6,7 +6,7 @@
 
 <p align="justify">I am an undergraduate Informatics Engineering student at  Electronic Engineering Polytechnic Institute of Surabaya (EEPIS). A passionate UI/UX designer with a keen eye for detail and a knack for creating seamless, user-centric experiences. My mission is to bridge the gap between aesthetic appeal and functional design, crafting interfaces that not only look stunning but also elevate the user's journey. I love to learn and build something new, productive, innovative and creative. </p>
 
-**I am interested in Web designing, Product Owner, and Quality Assurance**
+**I am interested in Web Design, Product Owner, and Quality Assurance**
 - 💼 I’m looking forward to collaborate on open source projects.
 - 🎨 Ask me about anything, I am happy to help, only if the ball is in my court!<br>
 - 📘 Outside tech, 📖 I love to read novels, 🎵 listen to music, and 🎞️ watching movies
