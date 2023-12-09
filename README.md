@@ -8,8 +8,9 @@
 
 **I am interested in Web Design, Product Owner, and Quality Assurance**
 - 💼 I’m looking forward to collaborate on open source projects.
-- 🎨 Ask me about anything, I am happy to help, only if the ball is in my court!<br>
+- ✏️ Ask me about anything, I am happy to help, only if the ball is in my court!<br>
 - 📘 Outside tech, 📖 I love to read novels, 🎵 listen to music, and 🎞️ watching movies
+- 🎨 Check <a href="abiersofyantie@gmail.com"> My Portofolio </a>here!
 - 📧 Reach out to me at: <a href="abiersofyantie@gmail.com">abiersofyantie@gmail.com</a>
 
 
